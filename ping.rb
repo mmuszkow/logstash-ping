@@ -1,0 +1,1 @@
+/opt/logstash/lib/logstash/inputs/ping.rb
